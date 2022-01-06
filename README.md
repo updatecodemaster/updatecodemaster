@@ -1,0 +1,5 @@
+- 👋 E ai, eu sou o @updatecodemaster.
+- 👀 Tenho interesse em programação de sites web.
+- 🌱 Atualmente venho tentando aprender JavaScript :p.
+- 💞️ Vou tentar colocar muitos projetos legais por aqui.
+- 📫 Para me encontrar podes me enivar uma mensagem aqui no git hub.
