@@ -4,7 +4,7 @@
 - 🌍 Tenho interesse em programação de sites web.
 - 🐱‍🚀 Atualmente venho tentando aprender JavaScript :p.
 - 🎁 Vou tentar colocar muitos projetos legais por aqui.
-- 📫 Para me encontrar podes me enivar uma mensagem aqui no linkedin.
+- 📫 Para falar comigo me envie uma mensagem no linkedin.
 
 <div align="center">
   <a href="https://github.com/updatecodemaster">
